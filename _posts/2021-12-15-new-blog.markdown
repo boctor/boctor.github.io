@@ -1,0 +1,14 @@
+---
+title:  "New Blog!"
+date:   2021-12-15 16:19:00 -0800
+categories: blog about
+---
+Is blogging so old now that it's considered retro?
+
+It's been a blessing to be able to work from home since COVID-19's initial shutdown almost two years ago.
+
+But I've often wanted to share interesting tidbits from my world, so I'm trying out an old fashioned blog.
+
+It's relatively low tech: written in Markdown, converted to HTML by [Jekyll](https://jekyllrb.com) and hosted on [Github Pages](https://pages.github.com). 
+
+Welcome! Hopefully you find something interesting here.
