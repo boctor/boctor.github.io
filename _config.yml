@@ -29,6 +29,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: boctor
 github_username:  boctor
 copyright: © <!--copyyears--> Peter Boctor; All rights reserved.
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDOGaDgXQ"
+    category_name: "Blog Post"
+    category_id: "DIC_kwDOGaDgXc4COCAA"
+    discussion_term: "pathname"
+    reactions_enabled: '1'
+    theme: "light"
 
 # Build settings
 # theme: minima
