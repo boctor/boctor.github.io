@@ -1,11 +1,8 @@
 ---
-
 title:  "Replacing ngrok with Cloudflare Tunnels"
-
 date:   2021-03-09 19:29:00 -0800
-
 categories: cloudflare
-
+comments: true
 ---
 If you've ever used [ngrok](https://ngrok.com) or [smee.io](https://smee.io) you're familiar with the need to have code running locally on your machine but that's triggered by a publicly accessible URL.
 
